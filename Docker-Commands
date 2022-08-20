@@ -1,0 +1,13 @@
+#Some basic commands
+1)docker images  -->to see images present
+2)docker search <image-name>  -->to find images on dockerhub
+3)docker pull <image-name>  -->to download images from dockerhub
+4)docker run -it --name <container-name> <image-name>  -->to give name to a conatiner
+5)service docker status  -->to check service status
+6)docker start <container-name>  -->to start a container
+7)docker attach <container-name>  -->to go inside container
+8)docker ps -a  -->to see all container
+9)docker ps  -->to see running container
+10)docker stop <container-name>  -->to stop a container
+11)docker rm <container-name>  -->to delete a container
+12)docker rmi <image-name/id>  -->to delete a image
