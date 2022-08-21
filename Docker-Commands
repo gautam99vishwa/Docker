@@ -10,4 +10,4 @@
 9)docker ps  -->to see running container
 10)docker stop <container-name>  -->to stop a container
 11)docker rm <container-name>  -->to delete a container
-12)docker rmi <image-name/id>  -->to delete a image
+12)docker rmi <image-name/id>  -->
